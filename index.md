@@ -24,6 +24,8 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+https://github.com/Research-Data-Leeds/OpenRefine/blob/gh-pages/instructions.txt
+[Instructions](https://github.com/Research-Data-Leeds/OpenRefine/blob/gh-pages/instructions.txt) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
