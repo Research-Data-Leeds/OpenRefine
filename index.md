@@ -1,4 +1,5 @@
-## Welcome to RDL OpenRefine for WikiData Pages
+## Welcome to RDL
+## OpenRefine for WikiData Pages
 
 You can use the [editor on GitHub](https://github.com/Research-Data-Leeds/OpenRefine/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
