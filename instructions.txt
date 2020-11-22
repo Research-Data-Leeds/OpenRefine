@@ -1,1 +1,11 @@
-Instructions for local use of githib for project documentation
+Instructions for local use of github for project documentation
+
+Levels
+
+Organisation
+
+Repository
+
+Project
+
+How to clone a repository
