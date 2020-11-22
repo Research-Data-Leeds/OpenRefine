@@ -33,3 +33,6 @@ Obtaining Wikidata Q numbers. Once you have reconciled a column to Wikidata, you
 
 To remove a statement see FAQ - have to use QuickStatements manually
 [https://www.wikidata.org/wiki/Wikidata:Tools/OpenRefine/Editing/FAQ](https://www.wikidata.org/wiki/Wikidata:Tools/OpenRefine/Editing/FAQ)
+
+Example files need to be added
+
